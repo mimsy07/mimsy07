@@ -1,3 +1,18 @@
+Hi there 👽️ 
+
+[Mimsy](https://github.com/mimsy07) here, an IT Specialist/Field Application Engineer
+I'm currently building various networking project using Cisco packet tracer and GNS3
+
+When I get tired on creating network projects, its either I'm reading book surfing twitter or exercising at home
+
+Facts about me:
+ - I really like coffee ☕
+ - Love hiking 🥾
+
+
+
+
+<!-- 
 # 💫 About Me:
 Hi I'm Mimsy<br><br>IT Specialist/ Field Application Engineer<br>Building a network project<br>I document every project I made here
 [Github profile](https://github.com/mimsy07)
@@ -16,4 +31,4 @@ Hi I'm Mimsy<br><br>IT Specialist/ Field Application Engineer<br>Building a netw
 ---
 [![](https://komarev.com/ghpvc/?username=mimsy07&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Proudly created with GPRM ( https://gprm.itsvg.in ) -->
