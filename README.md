@@ -1,9 +1,8 @@
-Hi there 👽️ 
+Hi there 👽️
 
-[Mimsy](https://github.com/mimsy07) here, an IT Specialist/Field Application Engineer
-I'm currently building various networking project using Cisco packet tracer and GNS3
+[Mimsy](https://github.com/mimsy07) here. An IT Specialist/Field Application Engineer, currently building various networking project using Cisco packet tracer and GNS3
 
-When I get tired on creating network projects, its either I'm reading book surfing twitter or exercising at home
+If I'm out on configuring some router or switch its either I'm reading book, surfing twitter, exercising at home, or just sleeping 😆
 
 Facts about me:
  - I really like coffee ☕
