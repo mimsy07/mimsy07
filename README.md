@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I'm Mimsy<br><br>IT Specialist/ Field Application Engineer<br>Building a network project<br>I document every project I made here (https://github.com/mimsy07)[mimsy07]
+Hi I'm Mimsy<br><br>IT Specialist/ Field Application Engineer<br>Building a network project<br>I document every project I made here (mimsy07) [https://github.com/mimsy07]
 
 
 ## 🌐 Socials:
