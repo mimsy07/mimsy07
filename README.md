@@ -1,6 +1,6 @@
 Hi there 👽️
 
-Mimsy here. An IT Specialist/Field Application Engineer, currently building various [networking project](https://github.com/mimsy07/net-projects) using Cisco packet tracer and GNS3
+Mimsy here. An IT Specialist/Field Application Engineer, currently building various [networking project](https://github.com/mimsy07/net-projects) using Cisco packet tracer and GNS3.
 
 If I'm out on configuring some router or switch its either I'm reading book, surfing twitter, exercising at home, or just sleeping 😆
 
